@@ -2,7 +2,7 @@
 pkg install -y root-repo 
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-git clone --depth 1 https://github.com/ramanveerji/WifiShot WifiShot
+git clone --depth 1 https://github.com/ramanveerji/WifiShot-Mediatek WifiShot
 
 chmod +x WifiShot/wifishot.py
 
